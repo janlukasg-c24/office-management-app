@@ -1,0 +1,13 @@
+{
+  "name": "office-management-helper",
+  "version": "0.0.1",
+  "description": "App to automate sending reoccuring chat messages for the office management team with the click of an button",
+  "main": "index.ts",
+  "dependencies": {
+    "@slack/bolt": "^3.22.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
